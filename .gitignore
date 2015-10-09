@@ -2,7 +2,7 @@
     *.class
 
     #netbeans ignore personal stuff
-    nbproject/
+    laravel/
 
     ## generic files to ignore
     *~
